@@ -11,7 +11,7 @@ This project was created to demonstrate a number of data engineering and data an
 A basic Entity Relationship Diagram was created detailing all relevant structure, tables, and relationships.
 
 ## **Important Notes:**
-Source data is located in the EmployeeSQL folder. Database schema/setup is located in the schema.sql file and all database queries are located in the queries.sql file. The ERD is located in the ouptput_data folder as a  .svg file. 
+Source data is located in the EmployeeSQL folder. Database schema/setup is located in the schema.sql file and all database queries are located in the queries.sql file. The ERD is located in the ouptput_data folder as a .svg file. 
 
 Note: the ERD image file should be downloaded or viewed in Raw format for proper display.
 
